@@ -1,0 +1,1 @@
+{"rustc":16329648796341269251,"features":"[\"coff\", \"elf\", \"macho\", \"pe\", \"read_core\", \"unaligned\"]","target":4951340705371151454,"profile":11677938664258541388,"path":13078989519569194091,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/object-c1aa873be05940d3/dep-lib-object"}}],"rustflags":[],"metadata":9227082627444587384,"config":0}
